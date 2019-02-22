@@ -1,2 +1,5 @@
 # hello-world
-Repository created after following the hello-world introduction to GitHub
+
+Hello there!
+
+To complete this session I need to write something here. So, I changed the original text for this one.
